@@ -4,7 +4,7 @@
 The aim of this project is to create a command line text based program that is able to read and write calendar entries from a text file. The program will be required to:
 - Display all of the calendar entries and display them into a readable format.
 - Be able to enter new calendar entries into the text file.
-- edit the current entries in the file if there are discrepancies.
+- Edit the current entries in the file if there are discrepancies.
 
 ### II. Epics and User Stories
 
@@ -24,6 +24,8 @@ Asthetic or non essential requirements
 ##### User Stories
 As a User, I would like to be able to edit the calendar files in order to correct any errors that are made.
 As a User, I would like to enter new dates into the calendar to ensure no new appointment is forgotten
+As a User, I would like to read the calendar entries and make sure they are displayed in a presentable manner
+
 
 
 
