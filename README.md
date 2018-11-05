@@ -22,9 +22,10 @@ Asthetic or non essential requirements
 - Allow multiple files to be read
 - Format the output to look like a traditional calendar.
 ##### User Stories
-As a User, I would like to be able to edit the calendar files in order to correct any errors that are made.
-As a User, I would like to enter new dates into the calendar to ensure no new appointment is forgotten
-As a User, I would like to read the calendar entries and make sure they are displayed in a presentable manner
+As a User, I would like to be able to edit the calendar files in order to correct any errors that are made.\
+As a User, I would like to enter new dates into the calendar to ensure no new appointment is forgotten.\
+As a User, I would like to read the calendar entries and make sure they are displayed in a presentable manner.
+
 
 
 
