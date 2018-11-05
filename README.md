@@ -15,7 +15,6 @@ Outlining the main fuctions of the game
 - Display calendar dates
 - Enter new dates into the calendar
 
-
 ##### Non-Functional Requirements
 Asthetic or non essential requirements
 - Sort the calendar dates
@@ -25,12 +24,6 @@ Asthetic or non essential requirements
 As a User, I would like to be able to edit the calendar files in order to correct any errors that are made.\
 As a User, I would like to enter new dates into the calendar to ensure no new appointment is forgotten.\
 As a User, I would like to read the calendar entries and make sure they are displayed in a presentable manner.
-
-
-
-
-
-
 
 ##### How We Addressed The Requirements
 
